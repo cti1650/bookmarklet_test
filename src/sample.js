@@ -1,3 +1,1 @@
-javascript:(function(){
-    alert("test");
-})()
+alert("test");
