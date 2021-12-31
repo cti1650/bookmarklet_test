@@ -1,0 +1,12 @@
+{
+  "name": "bookmarklet_test",
+  "version": "1.0.0",
+  "repository": "https://github.com/cti1650/bookmarklet_test.git",
+  "license": "MIT",
+  "dependencies": {
+    "uglify-js": "^3.14.5"
+  },
+  "scripts":{
+    "test":"uglifyjs -c -m --toplevel -- src/sample.js"
+  }
+}
