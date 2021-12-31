@@ -10,5 +10,5 @@ javascript:(()=>{const e=document.title,t=document.createElement("textarea");t.t
 
 ## サンプルスクリプト
 ```
-javascript:(()=>{const e=document.title,s=document.createElement("script");s.src="",document.body.appendChild(s),document.body.removeChild(s),console.log(`Copyed this website title "${e}"`)})();
+javascript:(()=>{const e=document.title,s=document.createElement("script");s.src="https://cti1650.github.io/bookmarklet_test/src/sample.js",document.body.appendChild(s),document.body.removeChild(s),console.log(`Copyed this website title "${e}"`)})();
 ```
